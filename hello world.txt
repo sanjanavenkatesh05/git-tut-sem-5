@@ -1,2 +1,5 @@
 hi class
 nice to meet you!
+
+git push --set-upstream origin master
+this is the command i just used 
